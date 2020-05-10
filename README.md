@@ -20,3 +20,5 @@ http.createServer(function (req, res) {
 ```node index.js```
 * Now open your browser and type localhost:8080 and you should see the "Hello World" as output.
 
+## Modules in Node JS
+* Look at the list of built-in modules here: https://www.w3schools.com/nodejs/ref_modules.asp
