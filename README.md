@@ -13,5 +13,10 @@
 http.createServer(function (req, res) {
   res.writeHead(200, {'Content-Type': 'text/html'});
   res.end('Hello World!');
-}).listen(8080);```
+}).listen(8080);
+```
+* Name the above file as index.js
+* Initiate the node js file as follows:
+```node index.js```
+* Now open your browser and type localhost:8080 and you should see the "Hello World" as output.
 
